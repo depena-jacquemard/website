@@ -44,7 +44,7 @@
 .separator-dots {
 	display: block;
 	width: 100%;
-	border-bottom: 1px dashed #78c9d1;
+	border-bottom: 1px dashed #E97195;
 }
 
 .service-price {
@@ -112,7 +112,7 @@ form label { margin-bottom: 5px; }
 
 .css3-spinner > div { top: 54%; }
 
-.css3-spinner { background-color: #78c9d1 }
+.css3-spinner { background-color: #E97195 }
 
 .css3-spinner:after {
 	content: '';
